@@ -1,6 +1,8 @@
 # SWITCH-CONTROL--PWM
-## AIM :Analyse switch-controlled PWM operation by varying LED brightness through 0%, 25%, 50%, 75%, and 100% for successive switch presses. Reverse the sequence after reaching maximum brightness to simulate wiper-speed control. 
----
+
+## AIM 
+Analyse switch-controlled PWM operation by varying LED brightness through 0%, 25%, 50%, 75%, and 100% for successive switch presses. Reverse the sequence after reaching maximum brightness to simulate wiper-speed control. 
+
 
 ## Apparatus Required
 
