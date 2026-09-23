@@ -38,22 +38,8 @@ Analyse switch-controlled PWM operation by varying LED brightness through 0%, 25
 ## OUTPUT
 
 
+<img width="525" height="354" alt="image" src="https://github.com/user-attachments/assets/94bb31da-0093-48ea-8d11-9125f3ef2288" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 ## Result
 
 The switch-controlled PWM operation was successfully implemented. The LED brightness was varied through **0%, 25%, 50%, 75%, and 100%** for successive switch presses. After reaching maximum brightness, the PWM duty cycle was decreased in the reverse sequence to **75%, 50%, 25%, and 0%**, successfully simulating **wiper-speed control**.
