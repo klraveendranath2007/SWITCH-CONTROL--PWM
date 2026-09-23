@@ -37,7 +37,6 @@ Analyse switch-controlled PWM operation by varying LED brightness through 0%, 25
 ---
 ## OUTPUT
 
-
 <img width="525" height="354" alt="image" src="https://github.com/user-attachments/assets/94bb31da-0093-48ea-8d11-9125f3ef2288" />
 
 ## Result
